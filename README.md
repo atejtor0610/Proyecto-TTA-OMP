@@ -48,9 +48,18 @@
      (2 Fotos)
 
 ### *7. Resolución clientes DNS* 
-     
+     Configuración D1:
+     (2 Fotos)
+     Configuración D2:
+     (2 Fotos)
+     Configuración D3:
+     (2 Fotos)
+     Configuración D5:
+     (2 Fotos)
+     Configuración D6:
+     (2 Fotos)
 
-
+### *8. Registros Especiales* 
 
 
 
