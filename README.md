@@ -2,7 +2,7 @@
 
 ### *1. Figura del Entorno*
      Esta es nuestra figura de enterno para el proyecto:
-     https://raw.githubusercontent.com/atejtor0610/Proyecto-TTA-OMP/master/Figura*
+     https://raw.githubusercontent.com/atejtor0610/Proyecto-TTA-OMP/master/Figura_entorno.png
 ### *2. Tener instalado Debian6-Pruebas*
      Está instalado Debian6-Pruebas además de contener su configuración para el uso.
      
