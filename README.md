@@ -3,7 +3,7 @@
 ### *1. Figura del Entorno*
 
      Esta es nuestra figura de enterno para el proyecto:
-     ![Figura_entorno](https://user-images.githubusercontent.com/116157396/214250748-9467786b-b51f-498a-9b90-cbed5378fd38.png)
+     !(https://user-images.githubusercontent.com/116157396/214250748-9467786b-b51f-498a-9b90-cbed5378fd38.png)
 
 
 ### *2. Tener instalado Debian6-Pruebas*
