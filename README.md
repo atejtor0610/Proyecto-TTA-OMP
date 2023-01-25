@@ -67,10 +67,10 @@
    
      Esta es la configuración de D1:
    ![image](
-   ![image](
+  
    
    ![image](
-   ![image](
+   
      
 
 ### *7. Resolución clientes DNS* 
