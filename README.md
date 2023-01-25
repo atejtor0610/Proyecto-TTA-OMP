@@ -62,14 +62,14 @@
      
 ### *6. Servidor DNS de sólo caché*  
      El D2 está en la Red 2, esta es su confguración para el servidor de sólo caché:
-   ![image](
-   ![image](
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/7.png)
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/7.7.png)
    
      Esta es la configuración de D1:
-   ![image](
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/8.png)
   
    
-   ![image](
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/8-8.png)
    
      
 
