@@ -11,6 +11,7 @@
 ###### 6. Servidor DNS de sólo caché ######
 ###### 7. Resolución clientes DNS ######
 ###### 8. Registros especiales ######
+###### 9. Transferencia de zona ######
 
 
 ### *1. Figura del Entorno*
@@ -31,51 +32,80 @@
   
    ***Fichero /etc/binf/named.conf.local***
    
-     (2 Fotos)
+   ![image](
+   ![image](
+   
    ***Fichero /etc/binf/named.conf.options***
    
-     (2 Fotos)
+   ![image](
+   ![image](
+   
    ***Fichero /etc/binf/named.conf.default-zones***
    
-     (2 Fotos)
+   ![image](
+   ![image](
+   
    ***Fichero /var/lib/bind/db.2smr.com***
    
-     (2 Fotos)
+   ![image](
+   ![image](
+   
    ***Fichero /var/lib/bind/db.(1º Red)***
    
-     (2 Fotos)
+   ![image](
+   ![image](
+   
    ***Fichero /var/lib/bind/db.(2º Red)***
    
-     (2 Fotos)
+   ![image](
+   ![image](
    ***Fichero /var/lib/bind/db.2smradmin.com***
    
-     (2 Fotos)
+   ![image](
+   ![image](
+   
    ***Fichero /var/lib/bind/db.2smrrrhh.com***
    
-     (2 Fotos)
+   ![image](
+   ![image](
      
 ### *6. Servidor DNS de sólo caché*  
      El D2 está en la Red 2, esta es su confguración para el servidor de sólo caché:
-     (2 Fotos)
+   ![image](
+   ![image](
+   
      Esta es la configuración de D1:
-     (2 Fotos)
-     (2 Fotos)
+   ![image](
+   ![image](
+   
+   ![image](
+   ![image](
+     
 
 ### *7. Resolución clientes DNS* 
      Configuración D1:
-     (2 Fotos)
+   ![image](
+   ![image](
+   
      Configuración D2:
-     (2 Fotos)
+  ![image](
+  ![image](
+  
      Configuración D3:
-     (2 Fotos)
+  ![image](
+  ![image](
+  
      Configuración D5:
-     (2 Fotos)
+   ![image](
+   ![image](
+   
      Configuración D6:
-     (2 Fotos)
+   ![image](
+   ![image](
 
 ### *8. Registros Especiales* 
 
-
+###  *9. Transferencia de zona*
 
 
 
