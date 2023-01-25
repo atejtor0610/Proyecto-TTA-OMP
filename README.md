@@ -75,24 +75,25 @@
 
 ### *7. Resolución clientes DNS* 
      Configuración D1:
-   ![image](
-   ![image](
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/a.png)
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/a.a.png)
    
      Configuración D2:
-  ![image](
-  ![image](
+  ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/b.png)
+  ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/b.b.png)
   
      Configuración D3:
-  ![image](
-  ![image](
+  ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/c.png)
+  ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/c.c.png)
   
      Configuración D5:
-   ![image](
-   ![image](
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/d.png)
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/d.d.png)
    
      Configuración D6:
-   ![image](
-   ![image](
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/e.png)
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/e.e.png)
+   
 
 ### *8. Registros Especiales* 
 
