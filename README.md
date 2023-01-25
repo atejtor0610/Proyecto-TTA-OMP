@@ -104,10 +104,12 @@
      
      Router llamado enrutador
    ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/s.png)
-      
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/sp.png)
+   
      D5 y D6 se llaman servidordns1 y servidordns2
    ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/d5d6.png)
-      
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/d5d6-p.png)   
+   
      MX D3
    ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/m.png)
       
@@ -123,6 +125,7 @@
 ###  *9. Transferencia de zona*
 
  ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/t-t.png)
+ ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/t-p.png)
 
 
 
