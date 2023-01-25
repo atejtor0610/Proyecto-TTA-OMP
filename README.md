@@ -1,5 +1,12 @@
 # Proyecto-TTA-OMP
 
+
+
+
+#Índice
+
+
+
 ### *1. Figura del Entorno*
      Esta es nuestra figura de enterno para el proyecto:
 ![image](https://user-images.githubusercontent.com/116157396/214513913-59001abf-cca0-4532-b785-9ec14b63eaea.png)
