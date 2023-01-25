@@ -96,18 +96,23 @@
    
 
 ### *8. Registros Especiales* 
-     Tener servidores DNS (D5 y D6)
-     ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/z.png)
+     Tener servidores DNS (D5 y D6):
+    ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/z.png)
+    
      D3 servidor de correo
-      ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/x.png)
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/x.png)
+     
      Router llamado enrutador
-      ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/s.png)
+    ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/s.png)
+      
      D5 y D6 se llaman servidordns1 y servidordns2
-      ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/d5d6.png)
+    ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/d5d6.png)
+      
      MX D3
-      ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/m.png)
+    ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/m.png)
+      
      Registro SOA
-      ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/n.png)
+    ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/n.png)
 
 
 
