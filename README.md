@@ -2,7 +2,7 @@
 
 ### *1. Figura del Entorno*
      Esta es nuestra figura de enterno para el proyecto:
-     ![Alt text](capturas/figuraentorno.png)
+   ![Alt text](capturas/figuraentono.png)
 
 ### *2. Tener instalado Debian6-Pruebas*
      Está instalado Debian6-Pruebas además de contener su configuración para el uso.
