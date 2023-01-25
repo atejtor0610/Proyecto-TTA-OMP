@@ -33,33 +33,30 @@
    ***Fichero /etc/binf/named.conf.local***
    
    ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/1.png)
-   ![image](
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/commit/1e3ca7d15b570a068c246d267a7360ce7d6ae6c8)
    
    ***Fichero /etc/binf/named.conf.options***
    
-   ![image](
-   ![image](
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/commit/1e3ca7d15b570a068c246d267a7360ce7d6ae6c8)
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/commit/1e3ca7d15b570a068c246d267a7360ce7d6ae6c8)
    
    ***Fichero /etc/binf/named.conf.default-zones***
    
-   ![image](
-   ![image](
-   
-   ***Fichero /var/lib/bind/db.2smr.com***
-   
-   ![image](
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/commit/1e3ca7d15b570a068c246d267a7360ce7d6ae6c8)
    ![image](
    
+  
    ***Fichero /var/lib/bind/db.(1º Red)***
    
-   ![image](
-   ![image](
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/commit/1e3ca7d15b570a068c246d267a7360ce7d6ae6c8)
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/commit/1e3ca7d15b570a068c246d267a7360ce7d6ae6c8)
+   
    
 
    ***Fichero /var/lib/bind/db.2smradmin.com***
    
-   ![image](
-   ![image](
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/commit/1e3ca7d15b570a068c246d267a7360ce7d6ae6c8)
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/commit/1e3ca7d15b570a068c246d267a7360ce7d6ae6c8)
    
    
      
