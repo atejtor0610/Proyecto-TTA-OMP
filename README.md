@@ -6,7 +6,8 @@
 
 ### *2. Tener instalado Debian6-Pruebas*
      Está instalado Debian6-Pruebas además de contener su configuración para el uso.
-     (Foto)
+![image](https://user-images.githubusercontent.com/116157396/214515199-857f6d40-9b0f-4212-9da3-ab41eb7bb318.png)
+
      
 ### *3. Espacio de Nombres*
      Esta es nuestro espacio de nombres:
