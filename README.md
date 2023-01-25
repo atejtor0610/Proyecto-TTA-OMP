@@ -10,7 +10,7 @@
      
 ### *3. Espacio de Nombres*
      Esta es nuestro espacio de nombres:
-     (Foto)
+![image](https://user-images.githubusercontent.com/116157396/214514480-f3fa04ba-bde1-4c52-ac93-71083be514cc.png)
      
 ### *4 y 5. Zonas Directas e Inversas*
      Nuestras zonas directas se basan en la siguinte configuración en base a nuestra figura de entorno y espacio de nombres.
