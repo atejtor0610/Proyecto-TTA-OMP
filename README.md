@@ -55,19 +55,13 @@
    ![image](
    ![image](
    
-   ***Fichero /var/lib/bind/db.(2º Red)***
-   
-   ![image](
-   ![image](
+
    ***Fichero /var/lib/bind/db.2smradmin.com***
    
    ![image](
    ![image](
    
-   ***Fichero /var/lib/bind/db.2smrrrhh.com***
    
-   ![image](
-   ![image](
      
 ### *6. Servidor DNS de sólo caché*  
      El D2 está en la Red 2, esta es su confguración para el servidor de sólo caché:
