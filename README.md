@@ -122,7 +122,7 @@
 
 ###  *9. Transferencia de zona*
 
-
+ ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/t-t.png)
 
 
 
