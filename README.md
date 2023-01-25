@@ -32,7 +32,7 @@
   
    ***Fichero /etc/binf/named.conf.local***
    
-   ![image](
+   ![image](https://github.com/atejtor0610/Proyecto-TTA-OMP/blob/main/capturas/1.png)
    ![image](
    
    ***Fichero /etc/binf/named.conf.options***
