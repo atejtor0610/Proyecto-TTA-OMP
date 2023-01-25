@@ -5,12 +5,12 @@
 
 ## Índice
 
-** 1. Figura del Entorno **
-** 3. Espacio de Nombres **
-** 4. Zonas Directas e Inversas **
-** 6. Servidor DNS de sólo caché **
-** 7. Resolución clientes DNS **
-** 8. Registros especiales **
+###### 1. Figura del Entorno ######
+###### 3. Espacio de Nombres ######
+###### 4. Zonas Directas e Inversas ######
+###### 6. Servidor DNS de sólo caché ######
+###### 7. Resolución clientes DNS ######
+###### 8. Registros especiales ######
 
 
 ### *1. Figura del Entorno*
